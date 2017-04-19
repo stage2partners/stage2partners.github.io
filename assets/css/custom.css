@@ -1,0 +1,65 @@
+/* Add here all your css styles (customizations) */
+
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+
+}
+
+a {
+    color: #6AA0B6;
+    
+}
+
+a:hover {
+    color: #6AA0B6;
+    
+}
+
+.header-fixed .header-v6.header-classic-white .navbar-nav .active > a, .header-fixed .header-v6.header-classic-white .navbar-nav li > a:hover {
+    color: #6AA0B6;
+}
+
+.headline-center h2:after {
+    background: #6AA0B6;
+}
+
+.process-v1 .process-in > li i {
+    background: #6AA0B6;
+    
+}
+
+.who li i {
+    color: #6AA0B6;
+    
+}
+
+.contacts-section {
+    background: none;
+    
+}
+
+.about-me {
+    padding: 30px 0;
+}
+
+.color-green {
+    color: #6AA0B6;
+    
+}
+
+.owl-clients-v1 img {
+    width: 130px;
+}
+
+
+.testimonials-bs .carousel-control-v2 i:hover {
+  color: #6AA0B6;
+  border-color: #6AA0B6;
+}
+    
