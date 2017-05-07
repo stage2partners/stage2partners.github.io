@@ -62,4 +62,9 @@ a:hover {
   color: #6AA0B6;
   border-color: #6AA0B6;
 }
+
+.col-centered {
+    float:none;
+    margin: 0 auto;
+}
     
